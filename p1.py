@@ -1,3 +1,3 @@
 num=20
 if num ==20
-print("20vvv")
+print("20")
